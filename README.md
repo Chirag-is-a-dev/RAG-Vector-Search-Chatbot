@@ -1,22 +1,22 @@
-# 🤖 RAG Chatbot with n8n, Google Gemini, Hugging Face & Pinecone
+#  RAG Chatbot with n8n, Google Gemini, Hugging Face & Pinecone
 
 An end-to-end **Retrieval-Augmented Generation (RAG)** chatbot built with **n8n**, **Google Gemini**, **Hugging Face Embeddings**, and **Pinecone Vector Database**. The system retrieves relevant information from a knowledge base and uses it to generate accurate, context-aware responses.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📚 Website content indexing
-- 🧠 Semantic embeddings using Hugging Face
-- 📦 Vector storage with Pinecone
-- 🤖 AI-powered responses using Google Gemini
-- 🔍 Semantic search for relevant document retrieval
-- ⚡ Workflow automation with n8n
-- 🌐 Easy integration with web applications
+-  Website content indexing
+-  Semantic embeddings using Hugging Face
+-  Vector storage with Pinecone
+-  AI-powered responses using Google Gemini
+-  Semantic search for relevant document retrieval
+-  Workflow automation with n8n
+-  Easy integration with web applications
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```text
                    Knowledge Base Indexing
@@ -48,9 +48,9 @@ An end-to-end **Retrieval-Augmented Generation (RAG)** chatbot built with **n8n*
 
 ---
 
-## 📂 Workflows
+##  Workflows
 
-### 📚 Workflow 1 – Knowledge Base Indexing
+### Workflow 1 – Knowledge Base Indexing
 
 This workflow prepares documents for semantic search.
 
@@ -100,7 +100,7 @@ Reduces hallucinations by allowing the language model to answer using your organ
 
 ---
 
-## 📸 Workflow Screenshots
+##  Workflow Screenshots
 
 ### Knowledge Base Indexing
 
@@ -122,7 +122,7 @@ images/rag-chat-workflow.png
 
 ---
 
-## 📌 Project Structure
+##  Project Structure
 
 ```text
 rag-chatbot-n8n-pinecone-gemini/
@@ -136,7 +136,7 @@ rag-chatbot-n8n-pinecone-gemini/
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ### 1. Clone Repository
 
@@ -174,7 +174,7 @@ Run the **RAG Chat Workflow** and connect it to your frontend or chatbot interfa
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
 - AI Customer Support
 - Internal Knowledge Base
@@ -187,7 +187,7 @@ Run the **RAG Chat Workflow** and connect it to your frontend or chatbot interfa
 
 ---
 
-## 💡 Why Retrieval-Augmented Generation (RAG)?
+##  Why Retrieval-Augmented Generation (RAG)?
 
 Traditional LLMs rely solely on their training data, which can lead to outdated or inaccurate responses.
 
@@ -195,15 +195,15 @@ RAG improves response quality by retrieving relevant information from your own k
 
 ### Benefits
 
-- ✅ Reduced hallucinations
-- ✅ Up-to-date information
-- ✅ Context-aware responses
-- ✅ No model retraining required
-- ✅ Enterprise-ready architecture
+-  Reduced hallucinations
+-  Up-to-date information
+-  Context-aware responses
+-  No model retraining required
+-  Enterprise-ready architecture
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 
@@ -211,13 +211,13 @@ If you'd like to improve this project, feel free to fork the repository and subm
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Chirag Sehgal**
 
